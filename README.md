@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @beatricekakou
-- 🌱 I’m currently studying Computer Engineering at "Roma Tre" University.
+- 👋 Hi, I’m @beak
+- 🌱 I’m currently studying Computer Science at "Roma Tre" University.
 - 📫 How to reach me : beatrice.kakou1996@gmail.com
 
 <!---
